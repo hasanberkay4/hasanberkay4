@@ -7,4 +7,4 @@
 - Other than coding i enjoy video games and any kind of sport especially weightlifting
 - You can reach me out via mail hasanberkay@sabanciuniv.edu
 
-<img align="center" src="https://user-images.githubusercontent.com/67153015/190450165-49c1209c-0d1d-457e-a95a-4389c014df97.jpg" height="400">
+<img align="center" src="https://user-images.githubusercontent.com/67153015/190450165-49c1209c-0d1d-457e-a95a-4389c014df97.jpg" height="300">
