@@ -1,5 +1,5 @@
 ### Hi There 👋
-- I am Junior Computer Science and Engineering student at Sabancı University and long-term intern at Turkish Aerospace Industry
+- I am Junior Computer Science and Engineering student at Sabancı University and long-term intern at Turkish Aerospace Industries
 - Recently, I really enjoy leetcoding and improving my problem-solving, coding skills 
 - I am interested in mobile and web development (mainly backend)
 - Some languages i used: C++, Python, Dart, Html5/CSS, JavaScript
