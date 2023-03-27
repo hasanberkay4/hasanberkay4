@@ -2,7 +2,7 @@
 - I am Junior Computer Science and Engineering student at Sabancı University and long-term intern at Turkish Aerospace Industries
 - Recently, I really enjoy leetcoding and improving my problem-solving, coding skills 
 - I am interested in mobile and web development (mainly backend)
-- Some languages i used: C++, Python, Dart, Html5/CSS, JavaScript
+- Some languages i used: C++, Python, C#, Dart, Html5/CSS, JavaScript
 - Some Frameworks & Tools i used: Flutter, Firebase, Bootstrap, Flask, Jinja, SQLite  
 - Other than coding i enjoy video games and any kind of sport especially weightlifting
 - You can reach me out via mail hasanberkay@sabanciuniv.edu,
