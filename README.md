@@ -1,8 +1,8 @@
 ### Hi There 👋
-- I am Junior Computer Science and Engineering student at Sabancı University and part-time software engineer at Commencis
+- I am Senior Computer Science and Engineering student at Sabancı University and part-time software engineer at Commencis
 - Recently, I really enjoy leetcoding and improving my problem-solving, coding skills 
 - I am interested in mobile and web development (mainly backend)
-- Some languages i used: C++ (feeling more confident), Python, C#, Kotlin, Dart, JavaScript
+- Some languages i used: C++ (feeling more confident), Kotlin, Python, C#, Dart
 - Some Frameworks & Tools i used: Flutter, Firebase, Bootstrap, Flask, Jinja, SQLite  
 - Other than coding i enjoy video games and any kind of sport especially weightlifting
 - You can reach me out via mail hasanberkay@sabanciuniv.edu,
