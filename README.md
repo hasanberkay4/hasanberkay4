@@ -1,5 +1,5 @@
 ### Hi There 👋
-- I am a Junior Computer Scientist graduated from Sabancı University and currently working at Midas as a Software Engineer
+- I am a Computer Scientist graduated from Sabancı University and currently working at Midas as a Software Engineer
 - Recently, I really enjoy leetcoding and improving my problem-solving, coding skills 
 - I am interested in mobile and web development (mainly backend)
 - Some languages i used: C++ (feeling more confident), Java, Kotlin, Python
